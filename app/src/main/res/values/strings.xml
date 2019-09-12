@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Survey App</string>
+    <string name="question">Do you have a dog?</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="vote_label">Total Votes</string>
+    <string name="yes_counter">0</string>
+    <string name="no_counter">0</string>
+    <string name="clear_button">Clear Votes</string>
+</resources>
